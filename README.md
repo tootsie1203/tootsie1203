@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tootsie1203
 - 👀 I’m interested in Java, C-Sharp, Javascript and developing forms
 - 🌱 I’m currently learning how to develop forms
-- 💞️ I’m looking to collaborate on every intersting kind of code
+- 💞️ I’m looking to collaborate on every interesting kind of code
 - 📫 How to reach me tootsie1203@gmail.com
 
 <!---
